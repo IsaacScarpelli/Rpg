@@ -10,7 +10,7 @@ class Cidade
         while (!sairDaLoja)
         {
             Console.WriteLine("\n1. Comprar Poção de Cura (30 ouro)");
-            Console.WriteLine("2. Comprar Espada (50 ouro)");
+            Console.WriteLine("2. Comprar Espada (70 ouro)");
             Console.WriteLine("3. Comprar Escudo (40 ouro)");
             Console.WriteLine("4. Comprar Armadura (80 ouro)");
             Console.WriteLine("5. Sair da loja");
